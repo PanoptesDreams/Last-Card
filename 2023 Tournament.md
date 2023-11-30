@@ -4,17 +4,24 @@ This document declares the parameters for the 2023 tournament.
 
 ---
 
+## Prize Pool
+
+DINOSAUR
+
+---
+
 ## Participants
 
-Panoptes - Confirmed
+Names are web handles to protect general player identity.
+Entity [PROTECTED] is a protected entity and must be safeguarded from internet exposure in regards to their identity. Take care when referencing them.
 
-PandaRampage - Confirmed
-
-ok_kay - Confirmed
-
-Snail.png - Conditional Participation (Prize pool confirmation required)
-
-[PROTECTED] - Unconfirmed, participant may be unavailable.
+| Participant | Confirmation | Note |
+| --- | --- | --- |
+| Panoptes | ✔ | Event Organiser |
+| PandaRampage | ✔ | Venue Host |
+| ok_kay | ✔ | |
+| Snail.png | ❔ | Prize pool confirmation requested before participation |
+| [PROTECTED] | ❔ | Participant may be unavailable |
 
 # Rules
 
