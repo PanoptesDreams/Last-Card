@@ -1,40 +1,78 @@
-# Last Card - Glossary
+## Glossary
 
 Term definitions relative to the game.
 
-Block - A Card that prevents a move.
+#### Active
 
-Card - Playing Card; Flat, rectangular play piece that carries a Rank and Suit determining its value.
+Current Rank, Suit, Modifier.
 
-Cards - Two or more of a Playing Card.
+#### Block
 
-Class - Card Type, defines how a card behaves in gameplay.
+A Card that prevents a move.
 
-Dealer - The person that distributes the cards for play at the beginning of the round.
+#### Card
 
-Deck - Primary Card stack, to be drawn from. 
+Playing Card; Flat, rectangular play piece that carries a Rank and Suit determining its value.
 
-Draw - To pick-up a card.
+#### Cards
 
-First to Act - The Player that is first to play their turn.
+Two or more of a Playing Card.
 
-Freeze - To stop or prevent temporarily.
+#### Class
 
-Mimic - Imitates any card.
+Card Type, defines how a card behaves in gameplay.
 
-Neutral - A card that has little impact on general gameplay.
+#### Dealer
 
-Player - The participant holding the Cards.
+The person that distributes the cards for play at the beginning of the round.
 
-Pick-Up Stack - Current Card stack to be drawn based on played Draw Cards.
+#### Deck
 
-Power - A Card type that shifts balance of play.
+Primary Card stack, to be drawn from. 
 
-Rank - A Cards' value. Higher number = Higher value.
+#### Draw
 
-Suit - The Symbol that represents each of the four primary Card types.
+To pick-up a card.
 
-Turn - Period of time for a Player to enact their decision.
+#### First to Act
+
+The Player that is first to play their turn.
+
+#### Mimic
+
+Imitates any card.
+
+#### Modifier
+
+Effect that changes gameplay.
+
+#### Neutral
+
+A card that has little impact on general gameplay.
+
+#### Player
+
+The participant holding the Cards.
+
+#### Pick-Up Stack
+
+Current Card stack to be drawn based on played Draw Cards.
+
+#### Power
+
+Card type that shifts balance of play.
+
+#### Rank
+
+A Cards' value. Higher number = Higher value.
+
+#### Suit
+
+The Symbol that represents each of the four primary Card types.
+
+#### Turn
+
+Period of time for a Player to enact their decision.
 
 ---
 
