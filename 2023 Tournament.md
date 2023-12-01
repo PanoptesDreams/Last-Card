@@ -1,4 +1,4 @@
-# LC Tournament - 2023
+# Lectre Tournament - 2023
 
 This document declares the parameters for the 2023 tournament.
 
@@ -7,6 +7,8 @@ This document declares the parameters for the 2023 tournament.
 ## Prize Pool
 
 DINOSAUR
+
+
 
 ---
 
@@ -19,6 +21,7 @@ Entity [PROTECTED] is a protected entity and must be safeguarded from internet e
 | --- | --- | --- |
 | Panoptes | ✔ | Event Organiser |
 | PandaRampage | ✔ | Venue Host |
+| MilkDaddy | ❔ | Venue Host |
 | ok_kay | ✔ | |
 | Snail.png | ❔ | Prize pool confirmation requested before participation |
 | [PROTECTED] | ❔ | Participant may be unavailable |

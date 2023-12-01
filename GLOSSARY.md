@@ -4,7 +4,7 @@ Term definitions relative to the game.
 
 #### Active
 
-Current Rank, Suit, Modifier.
+Current Rank, Suit, or Modifier.
 
 #### Block
 
